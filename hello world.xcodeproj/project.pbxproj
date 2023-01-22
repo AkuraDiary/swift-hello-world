@@ -14,6 +14,7 @@
 		B011DFEA297C28A100183D94 /* hello_worldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B011DFE9297C28A100183D94 /* hello_worldTests.swift */; };
 		B011DFF4297C28A100183D94 /* hello_worldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B011DFF3297C28A100183D94 /* hello_worldUITests.swift */; };
 		B011DFF6297C28A100183D94 /* hello_worldUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B011DFF5297C28A100183D94 /* hello_worldUITestsLaunchTests.swift */; };
+		B083B5A8297CD7790046608A /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B083B5A7297CD7790046608A /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		B011DFEF297C28A100183D94 /* hello worldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "hello worldUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B011DFF3297C28A100183D94 /* hello_worldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hello_worldUITests.swift; sourceTree = "<group>"; };
 		B011DFF5297C28A100183D94 /* hello_worldUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hello_worldUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B083B5A7297CD7790046608A /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				B011DFDA297C289F00183D94 /* ContentView.swift */,
 				B011DFDC297C28A100183D94 /* Assets.xcassets */,
 				B011DFDE297C28A100183D94 /* Preview Content */,
+				B083B5A7297CD7790046608A /* CircleImage.swift */,
 			);
 			path = "hello world";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				B011DFDB297C289F00183D94 /* ContentView.swift in Sources */,
 				B011DFD9297C289F00183D94 /* hello_worldApp.swift in Sources */,
+				B083B5A8297CD7790046608A /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
